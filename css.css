@@ -1,0 +1,42 @@
+header{
+    color: beige;
+    background-color: indigo;
+    display: block;
+    margin-bottom: 100px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.center{
+    text-align: center;
+    font-size: 2.1em;
+}
+.outer-container{
+    padding-left: 2em;
+    padding-right: 2em;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.nav-container{
+    padding-top: 4em;
+    padding-bottom: 4em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.nav-right{
+    display: flex;
+    justify-content: flex-end;
+    align-content: center;
+}
+div{
+    display: block;
+}
+.ap{
+    width: 100%;
+}
+footer{
+    margin-top: 90px;
+    text-align: center;
+    padding-top: 3em;
+    padding-bottom: 4em;
+}
